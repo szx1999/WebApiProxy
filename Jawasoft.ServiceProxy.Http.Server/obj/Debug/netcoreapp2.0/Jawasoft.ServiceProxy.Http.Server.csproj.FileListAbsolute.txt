@@ -1,0 +1,6 @@
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Http.Server\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Http.Server.deps.json
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Http.Server\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Http.Server.dll
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Http.Server\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Http.Server.csprojAssemblyReference.cache
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Http.Server\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Http.Server.csproj.CoreCompileInputs.cache
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Http.Server\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Http.Server.AssemblyInfoInputs.cache
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Http.Server\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Http.Server.AssemblyInfo.cs

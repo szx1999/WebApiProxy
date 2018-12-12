@@ -1,0 +1,11 @@
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.csprojAssemblyReference.cache
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.csproj.CoreCompileInputs.cache
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.AssemblyInfoInputs.cache
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.AssemblyInfo.cs
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.deps.json
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.runtimeconfig.json
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.runtimeconfig.dev.json
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.dll
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\bin\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.pdb
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.dll
+D:\code\Jawasoft-SvcProxy\Jawasoft.ServiceProxy.Test\obj\Debug\netcoreapp2.0\Jawasoft.ServiceProxy.Test.pdb

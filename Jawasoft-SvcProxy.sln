@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jawasoft.ServiceProxy.Base", "Jawasoft.ServiceProxy.Base\Jawasoft.ServiceProxy.Base.csproj", "{633DCE6B-32B3-4BD1-A910-2699CF415354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jawasoft.ServiceProxy.Http", "Jawasoft.ServiceProxy.Http\Jawasoft.ServiceProxy.Http.csproj", "{7AF246BB-BDE9-4942-994C-1DD3095CBAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jawasoft.ServiceProxy.Test", "Jawasoft.ServiceProxy.Test\Jawasoft.ServiceProxy.Test.csproj", "{EE7ED277-B629-4850-A299-EE10D3EAD2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jawasoft.ServiceProxy.Http.Server", "Jawasoft.ServiceProxy.Http.Server\Jawasoft.ServiceProxy.Http.Server.csproj", "{3F1F1F3B-50B9-4F7A-AA21-885077D233CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jawasoft.ServiceProxy.Abstractions", "Jawasoft.ServiceProxy.Abstractions\Jawasoft.ServiceProxy.Abstractions.csproj", "{38506D6A-2F5A-46AB-A028-21456E8297E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633DCE6B-32B3-4BD1-A910-2699CF415354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633DCE6B-32B3-4BD1-A910-2699CF415354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633DCE6B-32B3-4BD1-A910-2699CF415354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633DCE6B-32B3-4BD1-A910-2699CF415354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF246BB-BDE9-4942-994C-1DD3095CBAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF246BB-BDE9-4942-994C-1DD3095CBAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF246BB-BDE9-4942-994C-1DD3095CBAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF246BB-BDE9-4942-994C-1DD3095CBAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7ED277-B629-4850-A299-EE10D3EAD2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7ED277-B629-4850-A299-EE10D3EAD2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7ED277-B629-4850-A299-EE10D3EAD2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7ED277-B629-4850-A299-EE10D3EAD2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1F1F3B-50B9-4F7A-AA21-885077D233CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1F1F3B-50B9-4F7A-AA21-885077D233CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1F1F3B-50B9-4F7A-AA21-885077D233CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1F1F3B-50B9-4F7A-AA21-885077D233CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38506D6A-2F5A-46AB-A028-21456E8297E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38506D6A-2F5A-46AB-A028-21456E8297E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38506D6A-2F5A-46AB-A028-21456E8297E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38506D6A-2F5A-46AB-A028-21456E8297E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC876F1E-5B04-4586-9F35-B773E91351F0}
+	EndGlobalSection
+EndGlobal
